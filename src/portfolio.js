@@ -33,10 +33,10 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/asiyebaghbani",
   linkedin: "https://www.linkedin.com/in/asiyebaghbani/",
-  gmail: "asi.baghbani@gmail.com",
-  facebook: "https://www.facebook.com/saad.pasta7",
+  googleScholar: "https://scholar.google.com/citations?user=iSBLoZYAAAAJ&hl=en",
+  github: "https://github.com/asiyebaghbani",
+  gmail: "asi.baghbani@gmail.com", 
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
