@@ -20,12 +20,6 @@ export default function socialMedia() {
         </a>
       ) : null}
 
-      {
-        name: "Google Scholar",
-        link: socialMediaLinks.googleScholar,
-        icon: "fa fa-graduation-cap", // Uses FontAwesome's graduation cap icon
-        backgroundColor: "#4285F4", // Google Scholar blue color
-      },
 
       {socialMediaLinks.linkedin ? (
         <a
