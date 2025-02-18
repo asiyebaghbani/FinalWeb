@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/asiyebaghbani/",
-  googleScholar: "https://scholar.google.com/citations?user=iSBLoZYAAAAJ&hl=en",
+  //googleScholar: "https://scholar.google.com/citations?user=iSBLoZYAAAAJ&hl=en",
   github: "https://github.com/asiyebaghbani",
   gmail: "asi.baghbani@gmail.com", 
   // Instagram, Twitter and Kaggle are also supported in the links!
