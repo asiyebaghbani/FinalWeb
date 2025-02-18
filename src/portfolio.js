@@ -23,7 +23,7 @@ const greeting = {
   username: "Saad Pasta",
   title: "Hi all, I'm Saad",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "I’m a Machine Learning Scientist & AI Engineer passionate about building intelligent systems with Graph Neural Networks, NLP, and Generative AI. I love solving complex problems, optimizing models, and turning data into real-world impact."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
