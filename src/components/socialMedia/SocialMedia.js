@@ -125,7 +125,7 @@ export default function socialMedia() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="fab fa-graduation-cap"></i>
+          <FontAwesomeIcon icon={faGraduationCap} />
           <span></span>
         </a>
       ) : null}
