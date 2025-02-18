@@ -26,7 +26,7 @@ const greeting = {
     "I’m a Machine Learning Scientist & AI Engineer passionate about building intelligent systems with Graph Neural Networks, NLP, and Generative AI. I love solving complex problems, optimizing models, and turning data into real-world impact."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1z0E0_CZcLNeuj-dsGyR9MULvURlSQeHI/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/asiyebaghbani/",
-  googleScholar: "https://scholar.google.com/citations?user=iSBLoZYAAAAJ&hl=en",
+  //googleScholar: "https://scholar.google.com/citations?user=iSBLoZYAAAAJ&hl=en",
   github: "https://github.com/asiyebaghbani",
   gmail: "asi.baghbani@gmail.com", 
   // Instagram, Twitter and Kaggle are also supported in the links!
