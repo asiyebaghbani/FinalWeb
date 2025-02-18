@@ -20,7 +20,6 @@ export default function socialMedia() {
         </a>
       ) : null}
 
-
       {socialMediaLinks.linkedin ? (
         <a
           href={socialMediaLinks.linkedin}
