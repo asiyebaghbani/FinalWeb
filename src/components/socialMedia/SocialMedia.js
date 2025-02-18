@@ -1,5 +1,3 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faGraduationCap } from "@fortawesome/free-solid-svg-icons";
 import React from "react";
 import "./SocialMedia.scss";
 import {socialMediaLinks} from "../../portfolio";
@@ -118,14 +116,14 @@ export default function socialMedia() {
         </a>
       ) : null}
 
-      {socialMediaLinks.googleScholar ? (
+      {socialMediaLinks.kaggle ? (
         <a
-          href={socialMediaLinks.googleScholar}
-          className="icon-button google-scholar"
+          href={socialMediaLinks.kaggle}
+          className="icon-button kaggle"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <FontAwesomeIcon icon={faGraduationCap} />
+          <i className="fab fa-kaggle"></i>
           <span></span>
         </a>
       ) : null}
